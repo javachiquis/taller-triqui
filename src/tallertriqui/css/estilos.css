@@ -1,0 +1,9 @@
+.separator .line {
+    -fx-border-color: #333333;
+    -fx-border-width: 1;
+}
+
+.rectangle .line {
+    -fx-border-color: #333333;
+    -fx-border-width: 1;
+}
